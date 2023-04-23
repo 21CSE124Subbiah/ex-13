@@ -1,6 +1,6 @@
 <?php
-$xmlFile = 'books.xml';
-$xslFile = 'books.xsl';
+$xmlFile = 'ex13.xml';
+$xslFile = 'ex13.xsl';
 // create an XSLT processor object
 $xslt = new XSLTProcessor();
 // load the XSLT stylesheet
