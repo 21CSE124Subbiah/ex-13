@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book>
+        <title>Naruto</title>
+        <author>Masashi Kishimoto</author>
+        <year>1999</year>
+        <price>250</price>
+        <available>yes</available>
+    </book>
+    <book>
+        <title>Dragon Ball</title>
+        <author>Akira Toriyama</author>
+        <year>1988</year>
+        <price>230</price>
+        <available>no</available>
+    </book>
+    <book>
+        <title>Death Note</title>
+        <author>Tsugumi</author>
+        <year>2005</year>
+        <price>140</price>
+        <available>yes</available>
+    </book>
+    <book>
+        <title>Demon Slayer</title>
+        <author>Koyoharu gotouge</author>
+        <year>2008</year>
+        <price>180</price>
+        <available>no</available>
+    </book>
+    <book>
+        <title>Attack On Titan</title>
+        <author>Hajime Isayama</author>
+        <year>2000</year>
+        <price>200</price>
+        <available>yes</available>
+    </book>
+</books>
+
